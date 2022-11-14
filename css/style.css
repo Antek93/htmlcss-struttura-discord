@@ -61,7 +61,7 @@ header {
 
 .first-block > div {
     background-color: #ee82ee;
-    min-width: 750px;
+    min-width: 800px;
     padding-top: 11%;
     padding-bottom: 11%;
 }
@@ -70,13 +70,18 @@ header {
 
 /* Inizio Second Block  */
 
-.second-block {
+.pink-blue-white-box {
     background-color: white;
     margin-top: 40px;
     margin-bottom: 40px;
 
 }
 
+.pink-blue-gray-box {
+    background-color: #d3d3d3;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
 
 .small-section {
     min-height: 450px;
@@ -88,4 +93,14 @@ header {
     min-height: 450px;
     min-width: 630px;
     background-color: #1e90ff;
+}
+
+/* Fine second block  */
+
+/* Inizio third block  */
+
+.third-block {
+    background-color: #d3d3d3;
+    min-height: 450px;
+    min-width: 1050px;
 }
