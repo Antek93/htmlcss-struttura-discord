@@ -6,3 +6,10 @@
     box-sizing: border-box;
 }
 
+
+/* Debug */
+
+.debug header {
+    background-color: #add8e6;
+    min-height: 50px;
+}
