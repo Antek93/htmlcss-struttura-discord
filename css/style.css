@@ -24,7 +24,7 @@ header {
 .intestazione > div {
     
     min-height: 30px;
-    min-width: 250px;
+    min-width: 300px;
     background-color: #daa520;
     vertical-align: middle;
     padding: 10px 5px 10px 5px;
@@ -43,7 +43,7 @@ header {
 
 #link {
     text-align: center;
-    min-width: 400px;
+    min-width: 450px;
     
     
 }
@@ -54,7 +54,7 @@ header {
 
 .first-block {
     background-color: #00008b;
-    min-height: 300px;
+    min-height: 400px;
     padding-top: 2%;
     padding-bottom: 2%;
 }
@@ -62,10 +62,30 @@ header {
 .first-block > div {
     background-color: #ee82ee;
     min-width: 750px;
-    padding-top: 9%;
-    padding-bottom: 9%;
+    padding-top: 11%;
+    padding-bottom: 11%;
 }
 
 /* Fine First Block  */
 
 /* Inizio Second Block  */
+
+.second-block {
+    background-color: white;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+
+
+.small-section {
+    min-height: 450px;
+    min-width: 420px;
+    background-color: #ffc0cb;
+}
+
+.big-section {
+    min-height: 450px;
+    min-width: 630px;
+    background-color: #1e90ff;
+}
