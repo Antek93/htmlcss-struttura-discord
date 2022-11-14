@@ -21,22 +21,51 @@ header {
     align-items: center;
 } 
 
-.container-flex > div {
+.intestazione > div {
     
     min-height: 30px;
-    min-width: 300px;
+    min-width: 250px;
     background-color: #daa520;
     vertical-align: middle;
     padding: 10px 5px 10px 5px;
 
 }
 
+#logo {
+    text-align: left;
+    
+}
+
 #button {
     text-align: right;
+    
 }
 
 #link {
     text-align: center;
+    min-width: 400px;
+    
+    
 }
 
 /* Fine attributi header */
+
+/* inizio attributi Main  */
+
+.first-block {
+    background-color: #00008b;
+    min-height: 300px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.first-block > div {
+    background-color: #ee82ee;
+    min-width: 750px;
+    padding-top: 9%;
+    padding-bottom: 9%;
+}
+
+/* Fine First Block  */
+
+/* Inizio Second Block  */
