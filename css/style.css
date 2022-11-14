@@ -9,7 +9,7 @@
 
 /* Header e intestazione */
 
-header {
+.acqua-background {
     background-color: #add8e6;
     min-height:80px;
 }
@@ -52,16 +52,15 @@ header {
 
 /* inizio attributi Main  */
 
-.first-block {
+.boldblue {
     background-color: #00008b;
-    min-height: 400px;
     padding-top: 2%;
     padding-bottom: 2%;
 }
 
-.first-block > div {
+#pink-box-only {
     background-color: #ee82ee;
-    min-width: 800px;
+    min-width: 700px;
     padding-top: 11%;
     padding-bottom: 11%;
 }
@@ -81,6 +80,9 @@ header {
     background-color: #d3d3d3;
     margin-top: 40px;
     margin-bottom: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
 }
 
 .small-section {
@@ -102,6 +104,8 @@ header {
 .third-block {
     background-color: #d3d3d3;
     margin-bottom: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 #green-box {
@@ -112,13 +116,24 @@ header {
 
 /* Inizio fourth block  */
 
-.fourth-block {
+.boldgray-background {
     background-color: #23272a;
+    padding-top: 20px;
+    padding-bottom: 40px;
 }
 
-#left.pink.side {
-    min-height: ;
-    min-width: ;
+#left-pink-side {
+    min-height: 450px;
+    min-width: 350px;
     background-color:  #f08080 ;
 }
+
+#right-acqua-side {
+    background-color: #20b2aa;
+    min-height: 450px;
+    min-width: 175px;
+}
 /* Fine fourth block  */
+/* Fine main  */
+
+/* Inizio Footer  */
